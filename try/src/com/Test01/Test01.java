@@ -15,7 +15,7 @@ public class Test01 {
                 if (num2 != 0){
                     System.out.println("商："+num1/num2);
                 }else{
-
+                    System.out.println("im");
                 }
             }
         }else{
